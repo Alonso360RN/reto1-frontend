@@ -17,14 +17,14 @@ header {
 
 nav {
 	float: left;
-	width: 30%;
+	width: 10%;
 	height: 80%;
 	background: #FF0000;
 }
 
 section {
 	float: left;
-	width: 70%;
+	width: 90%;
 	height: 80%;
 	background: #FFE6CC;
 }
@@ -32,7 +32,7 @@ section {
 article {
 	background: #000000;
 	height: 7%;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 }
 
 h3 {
